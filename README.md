@@ -31,3 +31,6 @@ Insights and Recommendations:
 - Illustrated a comparative view of movies and TV shows through an interactive bubble chart, aiding in understanding their respective contributions.
 - Identified the top-performing genres through a stacked horizontal bar chart, facilitating strategic decision-making for content acquisition and production.
 - Visualized the geographical distribution of Netflix content, offering insights into production trends across countries.
+
+
+Tableau Link: https://public.tableau.com/app/profile/aryan.tele/viz/NetflixDataAnalysis_16999835404090/Dashboard1
